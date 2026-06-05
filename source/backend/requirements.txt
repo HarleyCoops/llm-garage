@@ -48,7 +48,7 @@ peft==0.14.0
 propcache==0.3.0
 protobuf==6.33.5
 psutil==7.0.0
-pyarrow==19.0.1
+pyarrow==23.0.1
 pydantic==2.10.6
 pydantic_core==2.27.2
 Pygments==2.19.1
